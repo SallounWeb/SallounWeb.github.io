@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(240, 73, 159);
+}
+
+body{
+    color: white
+}
+
+p {
+    background-color: #bf4de9; /* Background color of the box */
+    border: 1px solid #f10505; /* Border color and width */
+    border-radius: 10px;
+    padding: 10px; /* Padding inside the box */
+}
